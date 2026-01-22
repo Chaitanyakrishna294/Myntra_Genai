@@ -1,0 +1,6 @@
+pandas
+google-play-scraper
+google-generativeai
+matplotlib
+seaborn
+python-dotenv
